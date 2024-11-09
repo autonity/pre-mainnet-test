@@ -1,4 +1,3 @@
-// The example values below are purely for demonstration purposes and do not constitute valid data 
 {
   "genesisValidatorData": [
     {
@@ -8,9 +7,8 @@
       "oracleAddress": "0x0916e717fcDBD625A99DfA468142D3EB251f6b5A"
     },
     {
-      "validatorAddress": "0x550454352B8e1EAD5F27Cce108EF59439B18E249",
-      // Ownership proof is generated as per https://docs.autonity.org/validators/register-vali/#step-1.-generate-a-cryptographic-proof-of-node-ownership
-      "ownershipProof": " 0x946feb58dd6ec3a2c3703e55686fa367c4cad3aea0ac92522bc2619287e910ac4b78f0f92b8ab2bcfe539fa37c7a8b0a34c0f4ba384ea14ae10755e8ea082fba0003bd31870ab239dd3b288ff13181edd4cb40c6b93e7fcfd687116f2a07d97ab82fa398fd99c886a39054e783795db413a3e049feaf119f91cb592314afe56d8d01896aeba86090fab324e81c76f671cfba0efaa489eebcc5aa71627b47fec42977e6c37c37063344078e94e8bec2dd2bbb19d200ad8df211ed280ada22430d6f85a34146b47e6e77312432f75c3d63efaa88609f2f640f6af39f6434cd971309de"
+      "validatorAddress": "0xEf0Ba5e345C2C3937df5667A870Aae5105CAa3a5",
+      "ownershipProof": "0x4af47d9be17ab7a444c46bd5f0c206907ca6a52ad60c6f085053ede26982a89519fb8d3b000a771519d307c43c527bb0c28bf79fc5fa1bd7a2ebbeaf78861b5f0103bd31870ab239dd3b288ff13181edd4cb40c6b93e7fcfd687116f2a07d97ab82fa398fd99c886a39054e783795db413a3e049feaf119f91cb592314afe56d8d01ac25d2754cef1c5e685916f6d8aeb0ebe064d71e0981849793c5a43d5e6ae45a38123055ec53b3cffe20902577172dc618e06475a6165a0674b99c2e3520a5853ffbce1cd0c47604378efdfebaccd7f8e65013627adc1c85470065263f48b4bb"
     }
   ]
 }
