@@ -1,7 +1,7 @@
 {
   "genesisValidatorData": [
     {
-      "enode": "enode://bce186f2b956818d96b80293b8a78233c77daa84004e33304ed55ece1c6650b7a3a21249b005d362ff8c5fb919d7c8ac707e075b24379d3252be558fc16a83f2@validator-0.autonity.mainnet.kiln.fi",
+      "enode": "enode://bce186f2b956818d96b80293b8a78233c77daa84004e33304ed55ece1c6650b7a3a21249b005d362ff8c5fb919d7c8ac707e075b24379d3252be558fc16a83f2@51.159.206.200:62222",
       "treasury": "0x52a7c9895545c6e6b221af7a2ac708f0eefa09fd",
       "consensusKey": "0xa5e5189151fd06c91c11943cd1c861a0bf801f4feffe290284edec8d848d6078b2f216e6098efb1c4b4d615c735facc8",
       "oracleAddress": "0x0aB543903ff68F1CdF948D3bDEf0706C14eAaB9B"
