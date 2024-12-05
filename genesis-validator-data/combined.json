@@ -64,7 +64,7 @@
     },
     // D0s608
     {
-        ValidatorAddress: common.HexToAddress("0x3d805a3f9efd6f5183aceddd7d531a9c37cb43cc"),
+        ValidatorAddress: common.HexToAddress("0xDCA5DFF3D42f2db3C18dBE823380A0A81db49A7E"),
         Treasury: common.HexToAddress("0x3d805a3f9efd6f5183aceddd7d531a9c37cb43cc"),
         OracleAddress: common.HexToAddress("0x96841a9441ded4eb282e196b5a9b824d870c97e3"),
         ConsensusKey: common.Hex2Bytes("0xb49dfa4ce7fdddbd99e6c80fc1f52bc57c732cbe2793d60d4930455153a78c53d96450e0c209b59fdfe1f535d59d7987"),
@@ -109,7 +109,7 @@
     },
     // HrLoXr
     {
-        ValidatorAddress: common.HexToAddress("0xc175508b966bd5294d1d9bb2ffeec96b68945817"),
+        ValidatorAddress: common.HexToAddress("0x1Be7f70BCf8393a7e4A5BcC66F6f15d6e35cfBBC"),
         Treasury: common.HexToAddress("0xc175508b966bd5294d1d9bb2ffeec96b68945817"),
         OracleAddress: common.HexToAddress("0x345de4128c57d4c9977e958ef5cbaf133d3041f6"),
         ConsensusKey: common.Hex2Bytes("0x8e37252fc62b32896b522150a020170fbd937a9871967e3a17cc4c9941a5dceeca881eb21316e42c7cc56e3dc3fc099a"),
@@ -235,7 +235,7 @@
     },
     // TyXZGk
     {
-        ValidatorAddress: common.HexToAddress("0x526508c671eBD5311ebc3967Ac3F1D445907cC67"),
+        ValidatorAddress: common.HexToAddress("0x197B2c44b887c4aC01243BDE7E4bBa8bd95BC3a8"),
         Treasury: common.HexToAddress("0x526508c671eBD5311ebc3967Ac3F1D445907cC67"),
         OracleAddress: common.HexToAddress("0x9C93Fe8e41137c4a23D8e525E2fa1b71e25b9252"),
         ConsensusKey: common.Hex2Bytes("0xae1b49d79c320203b526e79a82f744b3c0ab2a270f1f8bc30db9e54e0ad08053e94bd0848b515175985d62f5105c7403"),
@@ -262,11 +262,11 @@
     },
     // WHgEhi
     {
-        ValidatorAddress: common.HexToAddress("0xC3B81e3f879C082a96Cad0cF0855F91847a64B31"),
+        ValidatorAddress: common.HexToAddress("0x9C7dAABb5101623340C925CFD6fF74088ff5672e"),
         Treasury: common.HexToAddress("0xC3B81e3f879C082a96Cad0cF0855F91847a64B31"),
         OracleAddress: common.HexToAddress("0x6A4ece3e7c830c5115d8321aE1c29B90a69C7855"),
-        ConsensusKey: common.Hex2Bytes("0x9181081ae0f8f4cc33666b047f9bbdcf58941466c584a78292271d83c728d6a8146e13280ca82780d692f5a36511f1ab"),
-        Enode: "enode://6c7a87a6837f260e38679d356ce2b17522f2fc4dcb39b6f92868106570cc9dc630f42b3b4a8297376b0e53948db713b7497b6bb82c92c3f5219f86eee3bd2a34@185.26.11.57:30303",
+        ConsensusKey: common.Hex2Bytes("0xb579a7df6f44c54413e344657c4bf07117904b25361218b32414ff509fc5b199a1ab5fac7f50d2cfe46193c7e9f5abb5"),
+        Enode: "enode://6a8426e68cba8921ea596f3505ded7f71a107c1f73bf228398c0031cba44322a3f46c8c151a1580b9650062e5be915f907ef335f1c25e979027825b24002ef83@185.26.11.57:30303",
         BondedStake: Ntn1,
     }
 ]
