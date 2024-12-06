@@ -59,7 +59,7 @@
         Treasury: common.HexToAddress("0x9691e63e8e90deCa91600502b6E040aDeD3d6503"),
         OracleAddress: common.HexToAddress("0x9691e63e8e90deCa91600502b6E040aDeD3d6503"),
         ConsensusKey: common.Hex2Bytes("0xb96706e536cdc9a38d3d9e570cd1bc2bb2316a04e3d9c5a042970128833dfc8a8585222ed2c8ba86cbfd1e9477a4cf10"),
-        Enode: "enode://b9c39abeebc9b883875e88efc49c1f818e41fae7e19fac6c267f5f453d71b437f6f2f8756be5204138d45f4a2027fc3bf85991b1dd6f3c99b6cec46ec0349546@159.69.92.190:30303",
+        Enode: "enode://b9c39abeebc9b883875e88efc49c1f818e41fae7e19fac6c267f5f453d71b437f6f2f8756be5204138d45f4a2027fc3bf85991b1dd6f3c99b6cec46ec0349546@14.243.91.37:30303",
         BondedStake: Ntn1,
     },
     // D0s608
